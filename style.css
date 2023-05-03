@@ -183,7 +183,7 @@
     }
      .topnav.responsive a {
          float: none;
-         display:block;
+         display: inline-block;
          vertical-align: middle;
          text-align: left;
        
